@@ -1,14 +1,7 @@
 streamlit
 pandas
 numpy
-plotly.express
+plotly
 xgboost
 joblib
-sklearn.model_selection
-sklearn.preprocessing
-sklearn.impute
-sklearn.metrics
-train_test_split
-StandardScaler
-SimpleImputer
-roc_auc_score, accuracy_score
+scikit-learn
