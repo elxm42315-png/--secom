@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+plotly.express
+xgboost
+joblib
+sklearn.model_selection
+sklearn.preprocessing
+sklearn.impute
+sklearn.metrics
